@@ -1,0 +1,11 @@
+==========================================================================================
+ADVANCED GNN EXPLAINABILITY REPORT - GCN
+Generated: 2026-01-04 11:51:43
+==========================================================================================
+
+Overall Accuracy: 4/5 (80.00%)
+
+
+Node 1708:
+  True Class:      Probabilistic_Methods
+  Predicted Class: Genetic_Algorithms

@@ -1,0 +1,3199 @@
+Folder PATH listing
+Volume serial number is 985E-7DA4
+C:.
+ÃÄÄÄdata
+³   ÃÄÄÄCiteSeer
+³   ³   ÀÄÄÄCiteSeer
+³   ³       ÃÄÄÄprocessed
+³   ³       ÀÄÄÄraw
+³   ÃÄÄÄcora
+³   ³   ÀÄÄÄCora
+³   ³       ÃÄÄÄprocessed
+³   ³       ÀÄÄÄraw
+³   ÀÄÄÄPubMed
+³       ÀÄÄÄPubMed
+³           ÃÄÄÄprocessed
+³           ÀÄÄÄraw
+ÃÄÄÄevaluation
+³   ÀÄÄÄ__pycache__
+ÃÄÄÄexperiments
+ÃÄÄÄexplainability
+ÃÄÄÄmodels
+³   ÃÄÄÄsaved
+³   ÀÄÄÄ__pycache__
+ÃÄÄÄnotebooks
+ÃÄÄÄresults
+³   ÃÄÄÄablation_studies
+³   ÃÄÄÄaugmentation_effects
+³   ÃÄÄÄciteseer_evaluation
+³   ³   ÃÄÄÄfigures
+³   ³   ÃÄÄÄfinetuned_models
+³   ³   ÀÄÄÄreports
+³   ÃÄÄÄexplainability
+³   ³   ÃÄÄÄgcn
+³   ³   ÀÄÄÄgraphsage
+³   ÃÄÄÄexplainability_demo
+³   ³   ÃÄÄÄgcn
+³   ³   ÀÄÄÄgraphsage
+³   ÃÄÄÄfigures
+³   ÃÄÄÄhyperparameter_search
+³   ³   ÃÄÄÄconfigs
+³   ³   ÀÄÄÄfigures
+³   ÃÄÄÄlatex_tables
+³   ÃÄÄÄlink_prediction
+³   ÃÄÄÄlogs
+³   ÃÄÄÄmodels
+³   ÃÄÄÄmultiple_runs
+³   ÃÄÄÄpubmed_evaluation
+³   ³   ÃÄÄÄfigures
+³   ³   ÃÄÄÄfinetuned_models
+³   ³   ÀÄÄÄreports
+³   ÃÄÄÄreports
+³   ÀÄÄÄvisualizations
+ÃÄÄÄtraining
+³   ÃÄÄÄdata
+³   ³   ÀÄÄÄCora
+³   ³       ÀÄÄÄCora
+³   ³           ÃÄÄÄprocessed
+³   ³           ÀÄÄÄraw
+³   ÀÄÄÄvenv
+³       ÃÄÄÄInclude
+³       ÃÄÄÄLib
+³       ³   ÀÄÄÄsite-packages
+³       ³       ÃÄÄÄpip
+³       ³       ³   ÃÄÄÄ_internal
+³       ³       ³   ³   ÃÄÄÄcli
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄcommands
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄdistributions
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄindex
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄlocations
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄmetadata
+³       ³       ³   ³   ³   ÃÄÄÄimportlib
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄmodels
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄnetwork
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄoperations
+³       ³       ³   ³   ³   ÃÄÄÄbuild
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄinstall
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄreq
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄresolution
+³       ³       ³   ³   ³   ÃÄÄÄlegacy
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄresolvelib
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄutils
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄvcs
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄ_vendor
+³       ³       ³   ³   ÃÄÄÄcachecontrol
+³       ³       ³   ³   ³   ÃÄÄÄcaches
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄcertifi
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄchardet
+³       ³       ³   ³   ³   ÃÄÄÄcli
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄmetadata
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄcolorama
+³       ³       ³   ³   ³   ÃÄÄÄtests
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄdistlib
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄdistro
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄidna
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄmsgpack
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpackaging
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpkg_resources
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄplatformdirs
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpygments
+³       ³       ³   ³   ³   ÃÄÄÄfilters
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄformatters
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄlexers
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄstyles
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpyparsing
+³       ³       ³   ³   ³   ÃÄÄÄdiagram
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpyproject_hooks
+³       ³       ³   ³   ³   ÃÄÄÄ_in_process
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄrequests
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄresolvelib
+³       ³       ³   ³   ³   ÃÄÄÄcompat
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄrich
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄtenacity
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄtomli
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄtruststore
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄurllib3
+³       ³       ³   ³   ³   ÃÄÄÄcontrib
+³       ³       ³   ³   ³   ³   ÃÄÄÄ_securetransport
+³       ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄpackages
+³       ³       ³   ³   ³   ³   ÃÄÄÄbackports
+³       ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄutil
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄwebencodings
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÀÄÄÄpip-24.0.dist-info
+³       ÀÄÄÄScripts
+ÃÄÄÄutils
+³   ÀÄÄÄ__pycache__
+ÀÄÄÄvenv
+    ÃÄÄÄInclude
+    ÃÄÄÄLib
+    ³   ÀÄÄÄsite-packages
+    ³       ÃÄÄÄaiohappyeyeballs
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄaiohappyeyeballs-2.6.1.dist-info
+    ³       ÃÄÄÄaiohttp
+    ³       ³   ÃÄÄÄ.hash
+    ³       ³   ÃÄÄÄ_websocket
+    ³       ³   ³   ÃÄÄÄ.hash
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄaiohttp-3.13.2.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ³       ÀÄÄÄvendor
+    ³       ³           ÀÄÄÄllhttp
+    ³       ÃÄÄÄaiosignal
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄaiosignal-1.4.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄattr
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄattrs
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄattrs-25.4.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄcertifi
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄcertifi-2025.11.12.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄcharset_normalizer
+    ³       ³   ÃÄÄÄcli
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄcharset_normalizer-3.4.4.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄcolorama
+    ³       ³   ÃÄÄÄtests
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄcolorama-0.4.6.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄcontourpy
+    ³       ³   ÃÄÄÄutil
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄcontourpy-1.3.3.dist-info
+    ³       ÃÄÄÄcycler
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄcycler-0.12.1.dist-info
+    ³       ÃÄÄÄdateutil
+    ³       ³   ÃÄÄÄparser
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtz
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄzoneinfo
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄfilelock
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄfilelock-3.20.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄfontTools
+    ³       ³   ÃÄÄÄcffLib
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcolorLib
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄconfig
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcu2qu
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdesignspaceLib
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄencodings
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfeaLib
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmerge
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmisc
+    ³       ³   ³   ÃÄÄÄfilesystem
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄplistlib
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmtiLib
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄotlLib
+    ³       ³   ³   ÃÄÄÄoptimize
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄpens
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄqu2cu
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄsubset
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄsvgLib
+    ³       ³   ³   ÃÄÄÄpath
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄt1Lib
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄttLib
+    ³       ³   ³   ÃÄÄÄtables
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄufoLib
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄunicodedata
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄvarLib
+    ³       ³   ³   ÃÄÄÄavar
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄinstancer
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄvoltLib
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄfonttools-4.61.1.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄfrozenlist
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄfrozenlist-1.8.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄfsspec
+    ³       ³   ÃÄÄÄimplementations
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtests
+    ³       ³   ³   ÀÄÄÄabstract
+    ³       ³   ³       ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄfsspec-2025.12.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄfunctorch
+    ³       ³   ÃÄÄÄcompile
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdim
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄeinops
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄexperimental
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_src
+    ³       ³   ³   ÃÄÄÄaot_autograd
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄeager_transforms
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmake_functional
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄvmap
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄidna
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄidna-3.11.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄjinja2
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄjinja2-3.1.6.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄjoblib
+    ³       ³   ÃÄÄÄexternals
+    ³       ³   ³   ÃÄÄÄcloudpickle
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄloky
+    ³       ³   ³   ³   ÃÄÄÄbackend
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtest
+    ³       ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄjoblib-1.5.3.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄkiwisolver
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄkiwisolver-1.4.9.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄmarkupsafe
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄMarkupSafe-2.1.5.dist-info
+    ³       ÃÄÄÄmatplotlib
+    ³       ³   ÃÄÄÄaxes
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄbackends
+    ³       ³   ³   ÃÄÄÄqt_editor
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄweb_backend
+    ³       ³   ³   ³   ÃÄÄÄcss
+    ³       ³   ³   ³   ÀÄÄÄjs
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmpl-data
+    ³       ³   ³   ÃÄÄÄfonts
+    ³       ³   ³   ³   ÃÄÄÄafm
+    ³       ³   ³   ³   ÃÄÄÄpdfcorefonts
+    ³       ³   ³   ³   ÀÄÄÄttf
+    ³       ³   ³   ÃÄÄÄimages
+    ³       ³   ³   ÃÄÄÄplot_directive
+    ³       ³   ³   ÃÄÄÄsample_data
+    ³       ³   ³   ³   ÀÄÄÄaxes_grid
+    ³       ³   ³   ÀÄÄÄstylelib
+    ³       ³   ÃÄÄÄprojections
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄsphinxext
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄstyle
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtesting
+    ³       ³   ³   ÃÄÄÄjpl_units
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtests
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtri
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_api
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄmatplotlib-3.10.8.dist-info
+    ³       ÃÄÄÄmpl_toolkits
+    ³       ³   ÃÄÄÄaxes_grid1
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄaxisartist
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄmplot3d
+    ³       ³       ÃÄÄÄtests
+    ³       ³       ³   ÀÄÄÄ__pycache__
+    ³       ³       ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄmpmath
+    ³       ³   ÃÄÄÄcalculus
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfunctions
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄlibmp
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmatrices
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtests
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄmpmath-1.3.0.dist-info
+    ³       ÃÄÄÄmultidict
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄmultidict-6.7.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄnetworkx
+    ³       ³   ÃÄÄÄalgorithms
+    ³       ³   ³   ÃÄÄÄapproximation
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄassortativity
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄbipartite
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcentrality
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcoloring
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcommunity
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcomponents
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄconnectivity
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄflow
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄisomorphism
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄlink_analysis
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄminors
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄoperators
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄshortest_paths
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtraversal
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtree
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄclasses
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdrawing
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄbaseline
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄgenerators
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄlinalg
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄreadwrite
+    ³       ³   ³   ÃÄÄÄjson_graph
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtests
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄutils
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄnetworkx-3.6.1.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄnumpy
+    ³       ³   ÃÄÄÄchar
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcore
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄctypeslib
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdoc
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄf2py
+    ³       ³   ³   ÃÄÄÄsrc
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄsrc
+    ³       ³   ³   ³   ³   ÃÄÄÄabstract_interface
+    ³       ³   ³   ³   ³   ÃÄÄÄarray_from_pyobj
+    ³       ³   ³   ³   ³   ÃÄÄÄassumed_shape
+    ³       ³   ³   ³   ³   ÃÄÄÄblock_docstring
+    ³       ³   ³   ³   ³   ÃÄÄÄcallback
+    ³       ³   ³   ³   ³   ÃÄÄÄcli
+    ³       ³   ³   ³   ³   ÃÄÄÄcommon
+    ³       ³   ³   ³   ³   ÃÄÄÄcrackfortran
+    ³       ³   ³   ³   ³   ÃÄÄÄf2cmap
+    ³       ³   ³   ³   ³   ÃÄÄÄisocintrin
+    ³       ³   ³   ³   ³   ÃÄÄÄkind
+    ³       ³   ³   ³   ³   ÃÄÄÄmixed
+    ³       ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄgh25337
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄgh26920
+    ³       ³   ³   ³   ³   ÃÄÄÄnegative_bounds
+    ³       ³   ³   ³   ³   ÃÄÄÄparameter
+    ³       ³   ³   ³   ³   ÃÄÄÄquoted_character
+    ³       ³   ³   ³   ³   ÃÄÄÄregression
+    ³       ³   ³   ³   ³   ÃÄÄÄreturn_character
+    ³       ³   ³   ³   ³   ÃÄÄÄreturn_complex
+    ³       ³   ³   ³   ³   ÃÄÄÄreturn_integer
+    ³       ³   ³   ³   ³   ÃÄÄÄreturn_logical
+    ³       ³   ³   ³   ³   ÃÄÄÄreturn_real
+    ³       ³   ³   ³   ³   ÃÄÄÄroutines
+    ³       ³   ³   ³   ³   ÃÄÄÄsize
+    ³       ³   ³   ³   ³   ÃÄÄÄstring
+    ³       ³   ³   ³   ³   ÀÄÄÄvalue_attrspec
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_backends
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfft
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄlib
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄlinalg
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄma
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmatrixlib
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄpolynomial
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄrandom
+    ³       ³   ³   ÃÄÄÄlib
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_examples
+    ³       ³   ³   ³   ÃÄÄÄcffi
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄcython
+    ³       ³   ³   ³   ÀÄÄÄnumba
+    ³       ³   ³   ³       ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄrec
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄstrings
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtesting
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_private
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtests
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtyping
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ³   ÃÄÄÄfail
+    ³       ³   ³   ³   ³   ÃÄÄÄmisc
+    ³       ³   ³   ³   ³   ÃÄÄÄpass
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄreveal
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_core
+    ³       ³   ³   ÃÄÄÄinclude
+    ³       ³   ³   ³   ÀÄÄÄnumpy
+    ³       ³   ³   ³       ÀÄÄÄrandom
+    ³       ³   ³   ÃÄÄÄlib
+    ³       ³   ³   ³   ÃÄÄÄnpy-pkg-config
+    ³       ³   ³   ³   ÀÄÄÄpkgconfig
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ÃÄÄÄexamples
+    ³       ³   ³   ³   ³   ÃÄÄÄcython
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄlimited_api
+    ³       ³   ³   ³   ³       ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_pyinstaller
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_typing
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_utils
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄnumpy-2.3.5.dist-info
+    ³       ÃÄÄÄnumpy.libs
+    ³       ÃÄÄÄpackaging
+    ³       ³   ÃÄÄÄlicenses
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄpackaging-25.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄpandas
+    ³       ³   ÃÄÄÄapi
+    ³       ³   ³   ÃÄÄÄextensions
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄindexers
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄinterchange
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtypes
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtyping
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄarrays
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcompat
+    ³       ³   ³   ÃÄÄÄnumpy
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcore
+    ³       ³   ³   ÃÄÄÄarrays
+    ³       ³   ³   ³   ÃÄÄÄarrow
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄsparse
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄarray_algos
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcomputation
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄdtypes
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄgroupby
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄindexers
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄindexes
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄinterchange
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄinternals
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmethods
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄops
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄreshape
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄsparse
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄstrings
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtools
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄutil
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄwindow
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_numba
+    ³       ³   ³   ³   ÃÄÄÄkernels
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄerrors
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄio
+    ³       ³   ³   ÃÄÄÄclipboard
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄexcel
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄformats
+    ³       ³   ³   ³   ÃÄÄÄtemplates
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄjson
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄparsers
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄsas
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄplotting
+    ³       ³   ³   ÃÄÄÄ_matplotlib
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtests
+    ³       ³   ³   ÃÄÄÄapi
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄapply
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄarithmetic
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄarrays
+    ³       ³   ³   ³   ÃÄÄÄboolean
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄcategorical
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄdatetimes
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄfloating
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄinteger
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄinterval
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmasked
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄnumpy_
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄperiod
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄsparse
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄstring_
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtimedeltas
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄbase
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcomputation
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄconfig
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄconstruction
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcopy_view
+    ³       ³   ³   ³   ÃÄÄÄindex
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄdtypes
+    ³       ³   ³   ³   ÃÄÄÄcast
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄextension
+    ³       ³   ³   ³   ÃÄÄÄarray_with_attr
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄbase
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄdate
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄdecimal
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄjson
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄlist
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄframe
+    ³       ³   ³   ³   ÃÄÄÄconstructors
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄindexing
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmethods
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄgeneric
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄgroupby
+    ³       ³   ³   ³   ÃÄÄÄaggregate
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmethods
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtransform
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄindexes
+    ³       ³   ³   ³   ÃÄÄÄbase_class
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄcategorical
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄdatetimelike_
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄdatetimes
+    ³       ³   ³   ³   ³   ÃÄÄÄmethods
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄinterval
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmulti
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄnumeric
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄobject
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄperiod
+    ³       ³   ³   ³   ³   ÃÄÄÄmethods
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄranges
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄstring
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtimedeltas
+    ³       ³   ³   ³   ³   ÃÄÄÄmethods
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄindexing
+    ³       ³   ³   ³   ÃÄÄÄinterval
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmultiindex
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄinterchange
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄinternals
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄio
+    ³       ³   ³   ³   ÃÄÄÄexcel
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄformats
+    ³       ³   ³   ³   ³   ÃÄÄÄstyle
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄjson
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄparser
+    ³       ³   ³   ³   ³   ÃÄÄÄcommon
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄdtypes
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄusecols
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄpytables
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄsas
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄxml
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄlibs
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄplotting
+    ³       ³   ³   ³   ÃÄÄÄframe
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄreductions
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄresample
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄreshape
+    ³       ³   ³   ³   ÃÄÄÄconcat
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmerge
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄscalar
+    ³       ³   ³   ³   ÃÄÄÄinterval
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄperiod
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtimedelta
+    ³       ³   ³   ³   ³   ÃÄÄÄmethods
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtimestamp
+    ³       ³   ³   ³   ³   ÃÄÄÄmethods
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄseries
+    ³       ³   ³   ³   ÃÄÄÄaccessors
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄindexing
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmethods
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄstrings
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtools
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtseries
+    ³       ³   ³   ³   ÃÄÄÄfrequencies
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄholiday
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄoffsets
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtslibs
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄutil
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄwindow
+    ³       ³   ³   ³   ÃÄÄÄmoments
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtseries
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄutil
+    ³       ³   ³   ÃÄÄÄversion
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_config
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_libs
+    ³       ³   ³   ÃÄÄÄtslibs
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄwindow
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_testing
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄpandas-2.3.3.dist-info
+    ³       ÃÄÄÄpandas.libs
+    ³       ÃÄÄÄPIL
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄpillow-12.0.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄpip
+    ³       ³   ÃÄÄÄ_internal
+    ³       ³   ³   ÃÄÄÄcli
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcommands
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄdistributions
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄindex
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄlocations
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmetadata
+    ³       ³   ³   ³   ÃÄÄÄimportlib
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmodels
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄnetwork
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄoperations
+    ³       ³   ³   ³   ÃÄÄÄbuild
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄinstall
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄreq
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄresolution
+    ³       ³   ³   ³   ÃÄÄÄlegacy
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄresolvelib
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄutils
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄvcs
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_vendor
+    ³       ³   ³   ÃÄÄÄcachecontrol
+    ³       ³   ³   ³   ÃÄÄÄcaches
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcertifi
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄchardet
+    ³       ³   ³   ³   ÃÄÄÄcli
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmetadata
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcolorama
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄdistlib
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄdistro
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄidna
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmsgpack
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpackaging
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpkg_resources
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄplatformdirs
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpygments
+    ³       ³   ³   ³   ÃÄÄÄfilters
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄformatters
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄlexers
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄstyles
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpyparsing
+    ³       ³   ³   ³   ÃÄÄÄdiagram
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpyproject_hooks
+    ³       ³   ³   ³   ÃÄÄÄ_in_process
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄrequests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄresolvelib
+    ³       ³   ³   ³   ÃÄÄÄcompat
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄrich
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtenacity
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtomli
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtruststore
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄurllib3
+    ³       ³   ³   ³   ÃÄÄÄcontrib
+    ³       ³   ³   ³   ³   ÃÄÄÄ_securetransport
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄpackages
+    ³       ³   ³   ³   ³   ÃÄÄÄbackports
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄutil
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄwebencodings
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄpip-24.0.dist-info
+    ³       ÃÄÄÄpkg_resources
+    ³       ³   ÃÄÄÄextern
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_vendor
+    ³       ³   ³   ÃÄÄÄbackports
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄimportlib_resources
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄjaraco
+    ³       ³   ³   ³   ÃÄÄÄfunctools
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtext
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmore_itertools
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpackaging
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄplatformdirs
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄpropcache
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄpropcache-0.4.1.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄpsutil
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄpsutil-7.2.1.dist-info
+    ³       ÃÄÄÄpyparsing
+    ³       ³   ÃÄÄÄai
+    ³       ³   ³   ÃÄÄÄshow_best_practices
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdiagram
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtools
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄpyparsing-3.3.1.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄpython_dateutil-2.9.0.post0.dist-info
+    ³       ÃÄÄÄpytz
+    ³       ³   ÃÄÄÄzoneinfo
+    ³       ³   ³   ÃÄÄÄAfrica
+    ³       ³   ³   ÃÄÄÄAmerica
+    ³       ³   ³   ³   ÃÄÄÄArgentina
+    ³       ³   ³   ³   ÃÄÄÄIndiana
+    ³       ³   ³   ³   ÃÄÄÄKentucky
+    ³       ³   ³   ³   ÀÄÄÄNorth_Dakota
+    ³       ³   ³   ÃÄÄÄAntarctica
+    ³       ³   ³   ÃÄÄÄArctic
+    ³       ³   ³   ÃÄÄÄAsia
+    ³       ³   ³   ÃÄÄÄAtlantic
+    ³       ³   ³   ÃÄÄÄAustralia
+    ³       ³   ³   ÃÄÄÄBrazil
+    ³       ³   ³   ÃÄÄÄCanada
+    ³       ³   ³   ÃÄÄÄChile
+    ³       ³   ³   ÃÄÄÄEtc
+    ³       ³   ³   ÃÄÄÄEurope
+    ³       ³   ³   ÃÄÄÄIndian
+    ³       ³   ³   ÃÄÄÄMexico
+    ³       ³   ³   ÃÄÄÄPacific
+    ³       ³   ³   ÀÄÄÄUS
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄpytz-2025.2.dist-info
+    ³       ÃÄÄÄrequests
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄrequests-2.32.5.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄscikit_learn-1.8.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄscipy
+    ³       ³   ÃÄÄÄcluster
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄconstants
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdatasets
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdifferentiate
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfft
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_pocketfft
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfftpack
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄintegrate
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_ivp
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_rules
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄinterpolate
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄio
+    ³       ³   ³   ÃÄÄÄarff
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmatlab
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_fast_matrix_market
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_harwell_boeing
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄlinalg
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ÃÄÄÄ_cython_examples
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmisc
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄndimage
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄodr
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄoptimize
+    ³       ³   ³   ÃÄÄÄcython_optimize
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄ_cython_examples
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_highspy
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_lsq
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_shgo_lib
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_trlib
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_trustregion_constr
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄsignal
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄwindows
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄsparse
+    ³       ³   ³   ÃÄÄÄcsgraph
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄlinalg
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_dsolve
+    ³       ³   ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_eigen
+    ³       ³   ³   ³   ³   ÃÄÄÄarpack
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄlobpcg
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_isolve
+    ³       ³   ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_propack
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄspatial
+    ³       ³   ³   ÃÄÄÄqhull_src
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtransform
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄspecial
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_cython_examples
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_precompute
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄstats
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ³   ÃÄÄÄlevy_stable
+    ³       ³   ³   ³   ³   ÃÄÄÄnist_anova
+    ³       ³   ³   ³   ³   ÃÄÄÄnist_linregress
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_levy_stable
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_rcont
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_unuran
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_lib
+    ³       ³   ³   ÃÄÄÄarray_api_compat
+    ³       ³   ³   ³   ÃÄÄÄcommon
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄcupy
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄdask
+    ³       ³   ³   ³   ³   ÃÄÄÄarray
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄnumpy
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtorch
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄarray_api_extra
+    ³       ³   ³   ³   ÃÄÄÄ_lib
+    ³       ³   ³   ³   ³   ÃÄÄÄ_utils
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcobyqa
+    ³       ³   ³   ³   ÃÄÄÄsubsolvers
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄutils
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpyprima
+    ³       ³   ³   ³   ÃÄÄÄcobyla
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄcommon
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_uarray
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄscipy-1.16.3.dist-info
+    ³       ÃÄÄÄscipy.libs
+    ³       ÃÄÄÄseaborn
+    ³       ³   ÃÄÄÄcolors
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄexternal
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_core
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_marks
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_stats
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄseaborn-0.13.2.dist-info
+    ³       ÃÄÄÄsetuptools
+    ³       ³   ÃÄÄÄcommand
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcompat
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄconfig
+    ³       ³   ³   ÃÄÄÄ_validate_pyproject
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄextern
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_distutils
+    ³       ³   ³   ÃÄÄÄcommand
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcompat
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_vendor
+    ³       ³   ³   ³   ÃÄÄÄpackaging
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_vendor
+    ³       ³   ³   ÃÄÄÄbackports
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄimportlib_metadata
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄimportlib_resources
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄjaraco
+    ³       ³   ³   ³   ÃÄÄÄfunctools
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtext
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmore_itertools
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpackaging
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtomli
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄwheel
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄsetuptools-70.2.0.dist-info
+    ³       ÃÄÄÄsix-1.17.0.dist-info
+    ³       ÃÄÄÄsklearn
+    ³       ³   ÃÄÄÄ.libs
+    ³       ³   ÃÄÄÄcluster
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_hdbscan
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcompose
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcovariance
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcross_decomposition
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdatasets
+    ³       ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄdescr
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄimages
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ³   ÃÄÄÄopenml
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_1
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_1119
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_1590
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_2
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_292
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_3
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_40589
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_40675
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_40945
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_40966
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_42074
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_42585
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_561
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_61
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄid_62
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdecomposition
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄensemble
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_hist_gradient_boosting
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄexperimental
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄexternals
+    ³       ³   ³   ÃÄÄÄarray_api_compat
+    ³       ³   ³   ³   ÃÄÄÄcommon
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄcupy
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄdask
+    ³       ³   ³   ³   ³   ÃÄÄÄarray
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄnumpy
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtorch
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄarray_api_extra
+    ³       ³   ³   ³   ÃÄÄÄ_lib
+    ³       ³   ³   ³   ³   ÃÄÄÄ_utils
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_numpydoc
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_packaging
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_scipy
+    ³       ³   ³   ³   ÃÄÄÄsparse
+    ³       ³   ³   ³   ³   ÃÄÄÄcsgraph
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfeature_extraction
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfeature_selection
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfrozen
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄgaussian_process
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄimpute
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄinspection
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_plot
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄlinear_model
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_glm
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmanifold
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmetrics
+    ³       ³   ³   ÃÄÄÄcluster
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_pairwise_distances_reduction
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_plot
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmixture
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmodel_selection
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄneighbors
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄneural_network
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄpreprocessing
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄsemi_supervised
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄsvm
+    ³       ³   ³   ÃÄÄÄsrc
+    ³       ³   ³   ³   ÃÄÄÄliblinear
+    ³       ³   ³   ³   ÃÄÄÄlibsvm
+    ³       ³   ³   ³   ÀÄÄÄnewrand
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtests
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtree
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄutils
+    ³       ³   ³   ÃÄÄÄsrc
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_repr_html
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_test_common
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_build_utils
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_loss
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ__check_build
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄsympy
+    ³       ³   ÃÄÄÄalgebras
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄassumptions
+    ³       ³   ³   ÃÄÄÄhandlers
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpredicates
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄrelation
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄbenchmarks
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcalculus
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcategories
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcodegen
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcombinatorics
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄconcrete
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcore
+    ³       ³   ³   ÃÄÄÄbenchmarks
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcrypto
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdiffgeom
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdiscrete
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄexternal
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfunctions
+    ³       ³   ³   ÃÄÄÄcombinatorial
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄelementary
+    ³       ³   ³   ³   ÃÄÄÄbenchmarks
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄspecial
+    ³       ³   ³   ³   ÃÄÄÄbenchmarks
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄgeometry
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄholonomic
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄintegrals
+    ³       ³   ³   ÃÄÄÄbenchmarks
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄinteractive
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄliealgebras
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄlogic
+    ³       ³   ³   ÃÄÄÄalgorithms
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄutilities
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmatrices
+    ³       ³   ³   ÃÄÄÄbenchmarks
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄexpressions
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmultipledispatch
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄntheory
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄparsing
+    ³       ³   ³   ÃÄÄÄautolev
+    ³       ³   ³   ³   ÃÄÄÄtest-examples
+    ³       ³   ³   ³   ³   ÃÄÄÄpydy-example-repo
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_antlr
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄc
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄfortran
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄlatex
+    ³       ³   ³   ³   ÃÄÄÄlark
+    ³       ³   ³   ³   ³   ÃÄÄÄgrammar
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_antlr
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄphysics
+    ³       ³   ³   ÃÄÄÄbiomechanics
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcontinuum_mechanics
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcontrol
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄhep
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmechanics
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄoptics
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄquantum
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄunits
+    ³       ³   ³   ³   ÃÄÄÄdefinitions
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄsystems
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄvector
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄplotting
+    ³       ³   ³   ÃÄÄÄbackends
+    ³       ³   ³   ³   ÃÄÄÄmatplotlibbackend
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtextbackend
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄintervalmath
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpygletplot
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄpolys
+    ³       ³   ³   ÃÄÄÄagca
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄbenchmarks
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄdomains
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmatrices
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄnumberfields
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄprinting
+    ³       ³   ³   ÃÄÄÄpretty
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄsandbox
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄseries
+    ³       ³   ³   ÃÄÄÄbenchmarks
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄsets
+    ³       ³   ³   ÃÄÄÄhandlers
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄsimplify
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄsolvers
+    ³       ³   ³   ÃÄÄÄbenchmarks
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄdiophantine
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄode
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄstats
+    ³       ³   ³   ÃÄÄÄsampling
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄstrategies
+    ³       ³   ³   ÃÄÄÄbranch
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtensor
+    ³       ³   ³   ÃÄÄÄarray
+    ³       ³   ³   ³   ÃÄÄÄexpressions
+    ³       ³   ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtesting
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄunify
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄutilities
+    ³       ³   ³   ÃÄÄÄmathml
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_compilation
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄvector
+    ³       ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄsympy-1.14.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄthreadpoolctl-3.6.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄtorch
+    ³       ³   ÃÄÄÄaccelerator
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄamp
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄao
+    ³       ³   ³   ÃÄÄÄnn
+    ³       ³   ³   ³   ÃÄÄÄintrinsic
+    ³       ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄqat
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄquantized
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄdynamic
+    ³       ³   ³   ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄqat
+    ³       ³   ³   ³   ³   ÃÄÄÄdynamic
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄquantizable
+    ³       ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄquantized
+    ³       ³   ³   ³   ³   ÃÄÄÄdynamic
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄreference
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄsparse
+    ³       ³   ³   ³   ³   ÃÄÄÄquantized
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄdynamic
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄns
+    ³       ³   ³   ³   ÃÄÄÄfx
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpruning
+    ³       ³   ³   ³   ÃÄÄÄscheduler
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄsparsifier
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_experimental
+    ³       ³   ³   ³   ³   ÃÄÄÄactivation_sparsifier
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄdata_scheduler
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄdata_sparsifier
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄlightning
+    ³       ³   ³   ³   ³   ³   ³   ÃÄÄÄcallbacks
+    ³       ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄpruner
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄquantization
+    ³       ³   ³   ³   ÃÄÄÄbackend_config
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄfx
+    ³       ³   ³   ³   ³   ÃÄÄÄ_model_report
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄpt2e
+    ³       ³   ³   ³   ³   ÃÄÄÄrepresentation
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄquantizer
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄautograd
+    ³       ³   ³   ÃÄÄÄ_functions
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄbackends
+    ³       ³   ³   ÃÄÄÄcpu
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcuda
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcudnn
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcusparselt
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄkleidiai
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmha
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmiopen
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmkl
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmkldnn
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmps
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄnnpack
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄopenmp
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄopt_einsum
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄquantized
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄxeon
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄxnnpack
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_coreml
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_nnapi
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄbin
+    ³       ³   ÃÄÄÄcompiler
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcontrib
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcpu
+    ³       ³   ³   ÃÄÄÄamp
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄcsrc
+    ³       ³   ³   ÀÄÄÄinductor
+    ³       ³   ³       ÀÄÄÄaoti_runtime
+    ³       ³   ÃÄÄÄcuda
+    ³       ³   ³   ÃÄÄÄamp
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdistributed
+    ³       ³   ³   ÃÄÄÄalgorithms
+    ³       ³   ³   ³   ÃÄÄÄddp_comm_hooks
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmodel_averaging
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_checkpoint
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_comm_hooks
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_optimizer_overlap
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_quantization
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄautograd
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcheckpoint
+    ³       ³   ³   ³   ÃÄÄÄ_experimental
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄelastic
+    ³       ³   ³   ³   ÃÄÄÄagent
+    ³       ³   ³   ³   ³   ÃÄÄÄserver
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄevents
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmetrics
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmultiprocessing
+    ³       ³   ³   ³   ³   ÃÄÄÄerrors
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄsubprocess_handler
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄrendezvous
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtimer
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄutils
+    ³       ³   ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄfsdp
+    ³       ³   ³   ³   ÃÄÄÄ_fully_shard
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄlauncher
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄnn
+    ³       ³   ³   ³   ÃÄÄÄapi
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄjit
+    ³       ³   ³   ³   ³   ÃÄÄÄtemplates
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄoptim
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpipelining
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄrpc
+    ³       ³   ³   ³   ÃÄÄÄ_testing
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtensor
+    ³       ³   ³   ³   ÃÄÄÄdebug
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄexperimental
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄparallel
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_ops
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_composable
+    ³       ³   ³   ³   ÃÄÄÄfsdp
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_shard
+    ³       ³   ³   ³   ÃÄÄÄcheckpoint
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄsharded_optim
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄsharded_tensor
+    ³       ³   ³   ³   ³   ÃÄÄÄ_ops
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄsharding_plan
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄsharding_spec
+    ³       ³   ³   ³   ³   ÃÄÄÄchunk_sharding_spec_ops
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_sharded_tensor
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_sharding_spec
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_symmetric_memory
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_tensor
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_tools
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdistributions
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄexport
+    ³       ³   ³   ÃÄÄÄexperimental
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpasses
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpt2_archive
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfft
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfunc
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfutures
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfx
+    ³       ³   ³   ÃÄÄÄexperimental
+    ³       ³   ³   ³   ÃÄÄÄmigrate_gradual_types
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄunification
+    ³       ³   ³   ³   ³   ÃÄÄÄmultipledispatch
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpasses
+    ³       ³   ³   ³   ÃÄÄÄbackends
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄdialect
+    ³       ³   ³   ³   ³   ÃÄÄÄcommon
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄinfra
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄutils
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄinclude
+    ³       ³   ³   ÃÄÄÄATen
+    ³       ³   ³   ³   ÃÄÄÄcore
+    ³       ³   ³   ³   ³   ÃÄÄÄboxing
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄimpl
+    ³       ³   ³   ³   ³   ÃÄÄÄdispatch
+    ³       ³   ³   ³   ³   ÀÄÄÄop_registration
+    ³       ³   ³   ³   ÃÄÄÄcpu
+    ³       ³   ³   ³   ³   ÀÄÄÄvec
+    ³       ³   ³   ³   ³       ÃÄÄÄsve
+    ³       ³   ³   ³   ³       ÃÄÄÄvec128
+    ³       ³   ³   ³   ³       ÃÄÄÄvec256
+    ³       ³   ³   ³   ³       ³   ÃÄÄÄvsx
+    ³       ³   ³   ³   ³       ³   ÀÄÄÄzarch
+    ³       ³   ³   ³   ³       ÀÄÄÄvec512
+    ³       ³   ³   ³   ÃÄÄÄcuda
+    ³       ³   ³   ³   ³   ÃÄÄÄdetail
+    ³       ³   ³   ³   ³   ÀÄÄÄtunable
+    ³       ³   ³   ³   ÃÄÄÄcudnn
+    ³       ³   ³   ³   ÃÄÄÄdetail
+    ³       ³   ³   ³   ÃÄÄÄfunctorch
+    ³       ³   ³   ³   ÃÄÄÄhip
+    ³       ³   ³   ³   ³   ÀÄÄÄimpl
+    ³       ³   ³   ³   ÃÄÄÄmetal
+    ³       ³   ³   ³   ÃÄÄÄmiopen
+    ³       ³   ³   ³   ÃÄÄÄmps
+    ³       ³   ³   ³   ÃÄÄÄnative
+    ³       ³   ³   ³   ³   ÃÄÄÄao_sparse
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄquantized
+    ³       ³   ³   ³   ³   ³       ÀÄÄÄcpu
+    ³       ³   ³   ³   ³   ÃÄÄÄcpu
+    ³       ³   ³   ³   ³   ÃÄÄÄcuda
+    ³       ³   ³   ³   ³   ÃÄÄÄhip
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄbgemm_kernels
+    ³       ³   ³   ³   ³   ÃÄÄÄkleidiai
+    ³       ³   ³   ³   ³   ÃÄÄÄmkldnn
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄxpu
+    ³       ³   ³   ³   ³   ³       ÀÄÄÄdetail
+    ³       ³   ³   ³   ³   ÃÄÄÄmps
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄkernels
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄoperations
+    ³       ³   ³   ³   ³   ÃÄÄÄmtia
+    ³       ³   ³   ³   ³   ÃÄÄÄnested
+    ³       ³   ³   ³   ³   ÃÄÄÄquantized
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄcpu
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄcudnn
+    ³       ³   ³   ³   ³   ÃÄÄÄtransformers
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄcuda
+    ³       ³   ³   ³   ³   ³   ³   ÃÄÄÄflash_attn
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄmem_eff_attention
+    ³       ³   ³   ³   ³   ³   ³       ÃÄÄÄepilogue
+    ³       ³   ³   ³   ³   ³   ³       ÃÄÄÄgemm
+    ³       ³   ³   ³   ³   ³   ³       ÃÄÄÄiterators
+    ³       ³   ³   ³   ³   ³   ³       ÃÄÄÄkernels
+    ³       ³   ³   ³   ³   ³   ³       ÀÄÄÄtransform
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄhip
+    ³       ³   ³   ³   ³   ³       ÀÄÄÄflash_attn
+    ³       ³   ³   ³   ³   ³           ÀÄÄÄck
+    ³       ³   ³   ³   ³   ÀÄÄÄutils
+    ³       ³   ³   ³   ÃÄÄÄops
+    ³       ³   ³   ³   ÃÄÄÄquantized
+    ³       ³   ³   ³   ÀÄÄÄxpu
+    ³       ³   ³   ³       ÀÄÄÄdetail
+    ³       ³   ³   ÃÄÄÄc10
+    ³       ³   ³   ³   ÃÄÄÄcore
+    ³       ³   ³   ³   ³   ÀÄÄÄimpl
+    ³       ³   ³   ³   ÃÄÄÄcuda
+    ³       ³   ³   ³   ³   ÀÄÄÄimpl
+    ³       ³   ³   ³   ÃÄÄÄmacros
+    ³       ³   ³   ³   ÃÄÄÄmetal
+    ³       ³   ³   ³   ÃÄÄÄmobile
+    ³       ³   ³   ³   ÃÄÄÄtest
+    ³       ³   ³   ³   ³   ÀÄÄÄutil
+    ³       ³   ³   ³   ÃÄÄÄutil
+    ³       ³   ³   ³   ÀÄÄÄxpu
+    ³       ³   ³   ³       ÃÄÄÄimpl
+    ³       ³   ³   ³       ÀÄÄÄtest
+    ³       ³   ³   ³           ÀÄÄÄimpl
+    ³       ³   ³   ÃÄÄÄcaffe2
+    ³       ³   ³   ³   ÃÄÄÄcore
+    ³       ³   ³   ³   ÃÄÄÄperfkernels
+    ³       ³   ³   ³   ÃÄÄÄserialize
+    ³       ³   ³   ³   ÀÄÄÄutils
+    ³       ³   ³   ³       ÀÄÄÄthreadpool
+    ³       ³   ³   ÃÄÄÄfmt
+    ³       ³   ³   ÃÄÄÄfp16
+    ³       ³   ³   ÃÄÄÄgoogle
+    ³       ³   ³   ³   ÀÄÄÄprotobuf
+    ³       ³   ³   ³       ÃÄÄÄcompiler
+    ³       ³   ³   ³       ³   ÃÄÄÄcpp
+    ³       ³   ³   ³       ³   ÃÄÄÄcsharp
+    ³       ³   ³   ³       ³   ÃÄÄÄjava
+    ³       ³   ³   ³       ³   ÃÄÄÄjs
+    ³       ³   ³   ³       ³   ÃÄÄÄobjectivec
+    ³       ³   ³   ³       ³   ÃÄÄÄphp
+    ³       ³   ³   ³       ³   ÃÄÄÄpython
+    ³       ³   ³   ³       ³   ÀÄÄÄruby
+    ³       ³   ³   ³       ÃÄÄÄio
+    ³       ³   ³   ³       ÃÄÄÄstubs
+    ³       ³   ³   ³       ÀÄÄÄutil
+    ³       ³   ³   ÃÄÄÄkineto
+    ³       ³   ³   ÃÄÄÄlegacy
+    ³       ³   ³   ÃÄÄÄmimalloc-2.2
+    ³       ³   ³   ÃÄÄÄoneapi
+    ³       ³   ³   ³   ÀÄÄÄdnnl
+    ³       ³   ³   ÃÄÄÄpybind11
+    ³       ³   ³   ³   ÃÄÄÄconduit
+    ³       ³   ³   ³   ÃÄÄÄdetail
+    ³       ³   ³   ³   ÃÄÄÄeigen
+    ³       ³   ³   ³   ÀÄÄÄstl
+    ³       ³   ³   ÀÄÄÄtorch
+    ³       ³   ³       ÃÄÄÄcsrc
+    ³       ³   ³       ³   ÃÄÄÄapi
+    ³       ³   ³       ³   ³   ÀÄÄÄinclude
+    ³       ³   ³       ³   ³       ÀÄÄÄtorch
+    ³       ³   ³       ³   ³           ÃÄÄÄdata
+    ³       ³   ³       ³   ³           ³   ÃÄÄÄdataloader
+    ³       ³   ³       ³   ³           ³   ÃÄÄÄdatasets
+    ³       ³   ³       ³   ³           ³   ÃÄÄÄdetail
+    ³       ³   ³       ³   ³           ³   ÃÄÄÄsamplers
+    ³       ³   ³       ³   ³           ³   ÀÄÄÄtransforms
+    ³       ³   ³       ³   ³           ÃÄÄÄdetail
+    ³       ³   ³       ³   ³           ÃÄÄÄnativert
+    ³       ³   ³       ³   ³           ÃÄÄÄnn
+    ³       ³   ³       ³   ³           ³   ÃÄÄÄfunctional
+    ³       ³   ³       ³   ³           ³   ÃÄÄÄmodules
+    ³       ³   ³       ³   ³           ³   ³   ÀÄÄÄcontainer
+    ³       ³   ³       ³   ³           ³   ÃÄÄÄoptions
+    ³       ³   ³       ³   ³           ³   ÃÄÄÄparallel
+    ³       ³   ³       ³   ³           ³   ÀÄÄÄutils
+    ³       ³   ³       ³   ³           ÃÄÄÄoptim
+    ³       ³   ³       ³   ³           ³   ÀÄÄÄschedulers
+    ³       ³   ³       ³   ³           ÃÄÄÄpython
+    ³       ³   ³       ³   ³           ÀÄÄÄserialize
+    ³       ³   ³       ³   ÃÄÄÄautograd
+    ³       ³   ³       ³   ³   ÃÄÄÄfunctions
+    ³       ³   ³       ³   ³   ÃÄÄÄgenerated
+    ³       ³   ³       ³   ³   ÀÄÄÄutils
+    ³       ³   ³       ³   ÃÄÄÄcpu
+    ³       ³   ³       ³   ÃÄÄÄcuda
+    ³       ³   ³       ³   ÃÄÄÄdistributed
+    ³       ³   ³       ³   ³   ÃÄÄÄautograd
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄcontext
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄengine
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄfunctions
+    ³       ³   ³       ³   ³   ³   ÀÄÄÄrpc_messages
+    ³       ³   ³       ³   ³   ÃÄÄÄc10d
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄcontrol_collectives
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄcontrol_plane
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄcuda
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄquantization
+    ³       ³   ³       ³   ³   ³   ÀÄÄÄsymm_mem
+    ³       ³   ³       ³   ³   ÀÄÄÄrpc
+    ³       ³   ³       ³   ³       ÃÄÄÄmetrics
+    ³       ³   ³       ³   ³       ÃÄÄÄprofiler
+    ³       ³   ³       ³   ³       ÀÄÄÄtesting
+    ³       ³   ³       ³   ÃÄÄÄdynamo
+    ³       ³   ³       ³   ÃÄÄÄexport
+    ³       ³   ³       ³   ÃÄÄÄfunctionalization
+    ³       ³   ³       ³   ÃÄÄÄfunctorch
+    ³       ³   ³       ³   ÃÄÄÄfx
+    ³       ³   ³       ³   ÃÄÄÄinductor
+    ³       ³   ³       ³   ³   ÃÄÄÄaoti_eager
+    ³       ³   ³       ³   ³   ÃÄÄÄaoti_include
+    ³       ³   ³       ³   ³   ÃÄÄÄaoti_package
+    ³       ³   ³       ³   ³   ÃÄÄÄaoti_runner
+    ³       ³   ³       ³   ³   ÃÄÄÄaoti_runtime
+    ³       ³   ³       ³   ³   ÃÄÄÄaoti_torch
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄc
+    ³       ³   ³       ³   ³   ³   ÀÄÄÄgenerated
+    ³       ³   ³       ³   ³   ÀÄÄÄcpp_wrapper
+    ³       ³   ³       ³   ³       ÀÄÄÄdevice_internal
+    ³       ³   ³       ³   ÃÄÄÄinstruction_counter
+    ³       ³   ³       ³   ÃÄÄÄjit
+    ³       ³   ³       ³   ³   ÃÄÄÄapi
+    ³       ³   ³       ³   ³   ÃÄÄÄbackends
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄcoreml
+    ³       ³   ³       ³   ³   ³   ³   ÃÄÄÄcpp
+    ³       ³   ³       ³   ³   ³   ³   ÀÄÄÄobjc
+    ³       ³   ³       ³   ³   ³   ÀÄÄÄxnnpack
+    ³       ³   ³       ³   ³   ³       ÃÄÄÄcompiler
+    ³       ³   ³       ³   ³   ³       ÃÄÄÄexecutor
+    ³       ³   ³       ³   ³   ³       ÀÄÄÄserialization
+    ³       ³   ³       ³   ³   ÃÄÄÄcodegen
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄcuda
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄfuser
+    ³       ³   ³       ³   ³   ³   ³   ÃÄÄÄcpu
+    ³       ³   ³       ³   ³   ³   ³   ÀÄÄÄcuda
+    ³       ³   ³       ³   ³   ³   ÀÄÄÄonednn
+    ³       ³   ³       ³   ³   ÃÄÄÄcuda
+    ³       ³   ³       ³   ³   ÃÄÄÄfrontend
+    ³       ³   ³       ³   ³   ÃÄÄÄir
+    ³       ³   ³       ³   ³   ÃÄÄÄmobile
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄcompatibility
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄmodel_tracer
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄnnc
+    ³       ³   ³       ³   ³   ³   ÀÄÄÄtrain
+    ³       ³   ³       ³   ³   ³       ÀÄÄÄoptim
+    ³       ³   ³       ³   ³   ÃÄÄÄoperator_upgraders
+    ³       ³   ³       ³   ³   ÃÄÄÄpasses
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄdbr_quantization
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄonnx
+    ³       ³   ³       ³   ³   ³   ³   ÀÄÄÄpattern_conversion
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄquantization
+    ³       ³   ³       ³   ³   ³   ÀÄÄÄutils
+    ³       ³   ³       ³   ³   ÃÄÄÄpython
+    ³       ³   ³       ³   ³   ÃÄÄÄruntime
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄinterpreter
+    ³       ³   ³       ³   ³   ³   ÀÄÄÄstatic
+    ³       ³   ³       ³   ³   ÃÄÄÄserialization
+    ³       ³   ³       ³   ³   ÃÄÄÄtensorexpr
+    ³       ³   ³       ³   ³   ³   ÀÄÄÄoperators
+    ³       ³   ³       ³   ³   ÀÄÄÄtesting
+    ³       ³   ³       ³   ÃÄÄÄlazy
+    ³       ³   ³       ³   ³   ÃÄÄÄbackend
+    ³       ³   ³       ³   ³   ÃÄÄÄcore
+    ³       ³   ³       ³   ³   ³   ÃÄÄÄinternal_ops
+    ³       ³   ³       ³   ³   ³   ÀÄÄÄops
+    ³       ³   ³       ³   ³   ÃÄÄÄgenerated
+    ³       ³   ³       ³   ³   ÃÄÄÄpython
+    ³       ³   ³       ³   ³   ÀÄÄÄts_backend
+    ³       ³   ³       ³   ³       ÀÄÄÄops
+    ³       ³   ³       ³   ÃÄÄÄmonitor
+    ³       ³   ³       ³   ÃÄÄÄmps
+    ³       ³   ³       ³   ÃÄÄÄmtia
+    ³       ³   ³       ³   ³   ÀÄÄÄprofiler
+    ³       ³   ³       ³   ÃÄÄÄmultiprocessing
+    ³       ³   ³       ³   ÃÄÄÄonnx
+    ³       ³   ³       ³   ÃÄÄÄprofiler
+    ³       ³   ³       ³   ³   ÃÄÄÄorchestration
+    ³       ³   ³       ³   ³   ÃÄÄÄpython
+    ³       ³   ³       ³   ³   ÃÄÄÄstandalone
+    ³       ³   ³       ³   ³   ÃÄÄÄstubs
+    ³       ³   ³       ³   ³   ÀÄÄÄunwind
+    ³       ³   ³       ³   ÃÄÄÄstable
+    ³       ³   ³       ³   ÃÄÄÄtensor
+    ³       ³   ³       ³   ÃÄÄÄutils
+    ³       ³   ³       ³   ÀÄÄÄxpu
+    ³       ³   ³       ÀÄÄÄheaderonly
+    ³       ³   ³           ÃÄÄÄcore
+    ³       ³   ³           ÃÄÄÄcpu
+    ³       ³   ³           ³   ÀÄÄÄvec
+    ³       ³   ³           ³       ÀÄÄÄvec256
+    ³       ³   ³           ÃÄÄÄmacros
+    ³       ³   ³           ÀÄÄÄutil
+    ³       ³   ÃÄÄÄjit
+    ³       ³   ³   ÃÄÄÄmobile
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_passes
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄlib
+    ³       ³   ³   ÃÄÄÄlibshm
+    ³       ³   ³   ÀÄÄÄlibshm_windows
+    ³       ³   ÃÄÄÄlinalg
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmasked
+    ³       ³   ³   ÃÄÄÄmaskedtensor
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmonitor
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmps
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmtia
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmultiprocessing
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄnested
+    ³       ³   ³   ÃÄÄÄ_internal
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄnn
+    ³       ³   ³   ÃÄÄÄattention
+    ³       ³   ³   ³   ÃÄÄÄexperimental
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄbackends
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄintrinsic
+    ³       ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄqat
+    ³       ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄquantized
+    ³       ³   ³   ³   ³   ÃÄÄÄdynamic
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄparallel
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄqat
+    ³       ³   ³   ³   ÃÄÄÄdynamic
+    ³       ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄquantizable
+    ³       ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄquantized
+    ³       ³   ³   ³   ÃÄÄÄdynamic
+    ³       ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_reference
+    ³       ³   ³   ³   ³   ÃÄÄÄmodules
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄutils
+    ³       ³   ³   ³   ÃÄÄÄ_expanded_weights
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄnuma
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄonnx
+    ³       ³   ³   ÃÄÄÄops
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_internal
+    ³       ³   ³   ³   ÃÄÄÄexporter
+    ³       ³   ³   ³   ³   ÃÄÄÄ_torchlib
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄops
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄfx
+    ³       ³   ³   ³   ³   ÃÄÄÄpasses
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtorchscript_exporter
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄoptim
+    ³       ³   ³   ÃÄÄÄ_multi_tensor
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄpackage
+    ³       ³   ³   ÃÄÄÄanalyze
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄprofiler
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄquantization
+    ³       ³   ³   ÃÄÄÄfx
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄshare
+    ³       ³   ³   ÀÄÄÄcmake
+    ³       ³   ³       ÃÄÄÄATen
+    ³       ³   ³       ÃÄÄÄCaffe2
+    ³       ³   ³       ³   ÃÄÄÄModules_CUDA_fix
+    ³       ³   ³       ³   ³   ÀÄÄÄupstream
+    ³       ³   ³       ³   ³       ÀÄÄÄFindCUDA
+    ³       ³   ³       ³   ÀÄÄÄpublic
+    ³       ³   ³       ÀÄÄÄTorch
+    ³       ³   ÃÄÄÄsignal
+    ³       ³   ³   ÃÄÄÄwindows
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄsparse
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄspecial
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtesting
+    ³       ³   ³   ÃÄÄÄ_internal
+    ³       ³   ³   ³   ÃÄÄÄcodegen
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄdistributed
+    ³       ³   ³   ³   ³   ÃÄÄÄnn
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄapi
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄrpc
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄexamples
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄjit
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄ_shard
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄsharded_tensor
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄ_tensor
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄgenerated
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄopinfo
+    ³       ³   ³   ³   ³   ÃÄÄÄdefinitions
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄoptests
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtest_module
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄutils
+    ³       ³   ³   ÃÄÄÄbackcompat
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄbenchmark
+    ³       ³   ³   ³   ÃÄÄÄexamples
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄop_fuzzers
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄutils
+    ³       ³   ³   ³   ³   ÃÄÄÄvalgrind_wrapper
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄbottleneck
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄdata
+    ³       ³   ³   ³   ÃÄÄÄdatapipes
+    ³       ³   ³   ³   ³   ÃÄÄÄdataframe
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄiter
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄmap
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÃÄÄÄutils
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄ_utils
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄhipify
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄjit
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmodel_dump
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄserialization
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtensorboard
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄviz
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_strobelight
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_sympy
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄxpu
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_awaits
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_C
+    ³       ³   ³   ÃÄÄÄ_dynamo
+    ³       ³   ³   ÀÄÄÄ_export
+    ³       ³   ÃÄÄÄ_custom_op
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_C_flatbuffer
+    ³       ³   ÃÄÄÄ_decomp
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_dispatch
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_dynamo
+    ³       ³   ³   ÃÄÄÄbackends
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpolyfills
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄrepro
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄvariables
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_export
+    ³       ³   ³   ÃÄÄÄdb
+    ³       ³   ³   ³   ÃÄÄÄexamples
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpasses
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpass_infra
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄserde
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_functorch
+    ³       ³   ³   ÃÄÄÄ_activation_checkpointing
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_aot_autograd
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_higher_order_ops
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_inductor
+    ³       ³   ³   ÃÄÄÄanalysis
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄautoheuristic
+    ³       ³   ³   ³   ÃÄÄÄartifacts
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcodegen
+    ³       ³   ³   ³   ÃÄÄÄaoti_runtime
+    ³       ³   ³   ³   ÃÄÄÄcuda
+    ³       ³   ³   ³   ³   ÃÄÄÄcutlass_lib_extensions
+    ³       ³   ³   ³   ³   ³   ÃÄÄÄcutlass_mock_imports
+    ³       ³   ³   ³   ³   ³   ³   ÃÄÄÄcuda
+    ³       ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ³   ÃÄÄÄpydot
+    ³       ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ³   ÃÄÄÄscipy
+    ³       ³   ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄcutedsl
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmtia
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄrocm
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄxpu
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄcompile_worker
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄfx_passes
+    ³       ³   ³   ³   ÃÄÄÄserialized_patterns
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄkernel
+    ³       ³   ³   ³   ÃÄÄÄflex
+    ³       ³   ³   ³   ³   ÃÄÄÄtemplates
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpackage
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄruntime
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtemplate_heuristics
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_lazy
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_library
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_logging
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_numpy
+    ³       ³   ³   ÃÄÄÄtesting
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_prims
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_prims_common
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_refs
+    ³       ³   ³   ÃÄÄÄlinalg
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄnn
+    ³       ³   ³   ³   ÃÄÄÄfunctional
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄspecial
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_strobelight
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_subclasses
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_vendor
+    ³       ³   ³   ÃÄÄÄpackaging
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄtorch-2.9.1.dist-info
+    ³       ÃÄÄÄtorchaudio
+    ³       ³   ÃÄÄÄcompliance
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdatasets
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄfunctional
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄlib
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmodels
+    ³       ³   ³   ÃÄÄÄdecoder
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄsquim
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄwav2vec2
+    ³       ³   ³   ³   ÃÄÄÄutils
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄpipelines
+    ³       ³   ³   ÃÄÄÄ_tts
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄ_wav2vec2
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtransforms
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄutils
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_extension
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄ_internal
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄtorchaudio-2.9.1.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄtorchgen
+    ³       ³   ÃÄÄÄaoti
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄapi
+    ³       ³   ³   ÃÄÄÄtypes
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdest
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄoperator_versions
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄpackaged
+    ³       ³   ³   ÃÄÄÄATen
+    ³       ³   ³   ³   ÃÄÄÄnative
+    ³       ³   ³   ³   ÀÄÄÄtemplates
+    ³       ³   ³   ÀÄÄÄautograd
+    ³       ³   ³       ÃÄÄÄtemplates
+    ³       ³   ³       ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄselective_build
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄstatic_runtime
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄtorchvision
+    ³       ³   ÃÄÄÄdatasets
+    ³       ³   ³   ÃÄÄÄsamplers
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄio
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmodels
+    ³       ³   ³   ÃÄÄÄdetection
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄoptical_flow
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄquantization
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄsegmentation
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄvideo
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄops
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtransforms
+    ³       ³   ³   ÃÄÄÄv2
+    ³       ³   ³   ³   ÃÄÄÄfunctional
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtv_tensors
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄtorchvision-0.24.1.dist-info
+    ³       ÃÄÄÄtorch_geometric
+    ³       ³   ÃÄÄÄcontrib
+    ³       ³   ³   ÃÄÄÄdatasets
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄexplain
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄnn
+    ³       ³   ³   ³   ÃÄÄÄconv
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄmodels
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄtransforms
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdata
+    ³       ³   ³   ÃÄÄÄlightning
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdatasets
+    ³       ³   ³   ÃÄÄÄgraph_generator
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmotif_generator
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄutils
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄdistributed
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄexplain
+    ³       ³   ³   ÃÄÄÄalgorithm
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmetric
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄgraphgym
+    ³       ³   ³   ÃÄÄÄcontrib
+    ³       ³   ³   ³   ÃÄÄÄact
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄconfig
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄencoder
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄhead
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄlayer
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄloader
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄloss
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄnetwork
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄoptimizer
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄpooling
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄstage
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtrain
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄtransform
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmodels
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄutils
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄio
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄllm
+    ³       ³   ³   ÃÄÄÄmodels
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄutils
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄloader
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄmetrics
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄnn
+    ³       ³   ³   ÃÄÄÄaggr
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄattention
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄconv
+    ³       ³   ³   ³   ÃÄÄÄcugraph
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄutils
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄdense
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄfunctional
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄkge
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄmodels
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄnorm
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄpool
+    ³       ³   ³   ³   ÃÄÄÄconnect
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄselect
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄunpool
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄprofile
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄsampler
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtesting
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄtransforms
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄutils
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄvisualization
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄtorch_geometric-2.7.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄtqdm
+    ³       ³   ÃÄÄÄcontrib
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄtqdm-4.67.1.dist-info
+    ³       ÃÄÄÄtyping_extensions-4.15.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄtzdata
+    ³       ³   ÃÄÄÄzoneinfo
+    ³       ³   ³   ÃÄÄÄAfrica
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄAmerica
+    ³       ³   ³   ³   ÃÄÄÄArgentina
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄIndiana
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄKentucky
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÃÄÄÄNorth_Dakota
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄAntarctica
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄArctic
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄAsia
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄAtlantic
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄAustralia
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄBrazil
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄCanada
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄChile
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄEtc
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄEurope
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄIndian
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄMexico
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄPacific
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÃÄÄÄUS
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄtzdata-2025.3.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ³       ÀÄÄÄlicenses
+    ³       ÃÄÄÄurllib3
+    ³       ³   ÃÄÄÄcontrib
+    ³       ³   ³   ÃÄÄÄemscripten
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄhttp2
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÃÄÄÄutil
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄurllib3-2.6.2.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄxxhash
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄxxhash-3.6.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄyarl
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÃÄÄÄyarl-1.22.0.dist-info
+    ³       ³   ÀÄÄÄlicenses
+    ³       ÃÄÄÄ_distutils_hack
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ÀÄÄÄ__pycache__
+    ÃÄÄÄScripts
+    ÀÄÄÄshare
+        ÀÄÄÄman
+            ÀÄÄÄman1

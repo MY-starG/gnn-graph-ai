@@ -1,0 +1,73 @@
+==========================================================================================
+COMPREHENSIVE GNN EVALUATION REPORT
+Generated: 2026-01-03 20:12:01
+==========================================================================================
+
+
+==========================================================================================
+MODEL: GCN
+==========================================================================================
+
+STANDARD METRICS:
+  Accuracy:           0.7810
+  Balanced Accuracy:  0.8078
+  F1-Score (Macro):   0.7782
+  Precision (Macro):  0.7657
+  Recall (Macro):     0.8078
+
+ADVANCED METRICS:
+  ROC-AUC (Macro):    0.9581
+  PR-AUC (Macro):     0.8232
+  MCC:                0.7415
+  Cohen's Kappa:      0.7371
+  Top-2 Accuracy:     0.9010
+  Top-3 Accuracy:     0.9390
+
+CALIBRATION METRICS:
+  ECE:                0.2015
+  MCE:                0.4122
+  Brier Score:        0.0596
+  Mean Confidence:    0.9825
+
+EMBEDDING QUALITY:
+  Silhouette Score:   0.2328
+  Davies-Bouldin:     1.2666
+
+GRAPH-SPECIFIC METRICS:
+  Homophilic Accuracy:   0.8728
+  Heterophilic Accuracy: 0.3895
+
+
+==========================================================================================
+MODEL: GraphSAGE
+==========================================================================================
+
+STANDARD METRICS:
+  Accuracy:           0.7520
+  Balanced Accuracy:  0.7903
+  F1-Score (Macro):   0.7499
+  Precision (Macro):  0.7321
+  Recall (Macro):     0.7903
+
+ADVANCED METRICS:
+  ROC-AUC (Macro):    0.9497
+  PR-AUC (Macro):     0.7935
+  MCC:                0.7081
+  Cohen's Kappa:      0.7034
+  Top-2 Accuracy:     0.8650
+  Top-3 Accuracy:     0.9250
+
+CALIBRATION METRICS:
+  ECE:                0.2293
+  MCE:                0.5502
+  Brier Score:        0.0664
+  Mean Confidence:    0.9791
+
+EMBEDDING QUALITY:
+  Silhouette Score:   0.2109
+  Davies-Bouldin:     1.3330
+
+GRAPH-SPECIFIC METRICS:
+  Homophilic Accuracy:   0.8383
+  Heterophilic Accuracy: 0.3842
+

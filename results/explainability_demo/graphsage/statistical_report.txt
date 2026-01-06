@@ -1,0 +1,34 @@
+==========================================================================================
+STATISTICAL EXPLAINABILITY REPORT - GraphSAGE
+Generated: 2026-01-04 12:42:23
+==========================================================================================
+
+OVERALL STATISTICS
+------------------------------------------------------------------------------------------
+Total nodes analyzed: 15
+Correct predictions: 10 (66.67%)
+Mean confidence: 0.8177 +/- 0.2322
+
+EDGE IMPORTANCE STATISTICS
+------------------------------------------------------------------------------------------
+Mean edge weight: 0.0240 +/- 0.0119
+Max edge weight: 0.9301 +/- 0.0026
+Mean important edges: 930.40 +/- 461.84
+
+CORRELATION ANALYSIS
+------------------------------------------------------------------------------------------
+Confidence vs Edge Weights: 0.8317
+Node Degree vs Important Edges: 0.1132
+
+CORRECT VS INCORRECT PREDICTIONS
+------------------------------------------------------------------------------------------
+Correct predictions:
+  Mean confidence: 0.7552
+  Mean edge weight: 0.0223
+  Mean important edges: 780.70
+
+Incorrect predictions:
+  Mean confidence: 0.9429
+  Mean edge weight: 0.0275
+  Mean important edges: 1229.80
+

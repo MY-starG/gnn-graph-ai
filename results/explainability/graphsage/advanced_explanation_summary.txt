@@ -1,0 +1,11 @@
+==========================================================================================
+ADVANCED GNN EXPLAINABILITY REPORT - GraphSAGE
+Generated: 2026-01-04 11:57:41
+==========================================================================================
+
+Overall Accuracy: 4/5 (80.00%)
+
+
+Node 1708:
+  True Class:      Probabilistic_Methods
+  Predicted Class: Genetic_Algorithms

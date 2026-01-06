@@ -1,0 +1,38 @@
+{
+  "GCN": {
+    "hyperparams": {
+      "hidden_channels": 64,
+      "num_layers": 3,
+      "dropout": 0.7,
+      "lr": 0.01,
+      "weight_decay": 0.0005
+    },
+    "val_acc": 0.808,
+    "test_acc": 0.799,
+    "training_time": 5.506456613540649
+  },
+  "GAT": {
+    "hyperparams": {
+      "hidden_channels": 64,
+      "heads": 2,
+      "dropout": 0.43336490640586134,
+      "lr": 0.01,
+      "weight_decay": 0.005
+    },
+    "val_acc": 0.816,
+    "test_acc": 0.806,
+    "training_time": 15.834385633468628
+  },
+  "GraphSAGE": {
+    "hyperparams": {
+      "hidden_channels": 256,
+      "num_layers": 4,
+      "dropout": 0.6897932377745826,
+      "lr": 0.001,
+      "weight_decay": 0.005
+    },
+    "val_acc": 0.822,
+    "test_acc": 0.795,
+    "training_time": 54.28390836715698
+  }
+}
